@@ -4,5 +4,7 @@ I have created an attractive, colorful, and fully responsive landing page with a
 
 The project consists of three files:
 index.html: The HTML structure with semantic elements and navigation.
+
 styles.css: Colorful gradient backgrounds, smooth animations, and responsive styling.
+
 script.js: JavaScript for scroll-based style changes and mobile menu toggle.
